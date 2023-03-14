@@ -197,7 +197,7 @@ This issue can be avoided in a clean installation, so if you are upgrading, it i
 
 If you are using a standalone Prometheus server, make sure to copy the Prometheus configuration and recording rules as describe in `install without docker`_.
 
-.. _`install without docker`: /install/monitor_without_docker#install-prometheus
+.. _`install without docker`: /stable/install/monitor_without_docker.html
 
 Reducing the total number of metrics
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
